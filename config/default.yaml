@@ -1,0 +1,6 @@
+---
+JWT_SIGN_OPTIONS:
+  issuer: Pembajak
+  audience: https://uniqora.my.id
+  expiresIn: 12h
+API_PREFIX: /api/v1
